@@ -1,29 +1,29 @@
-# 💻 Hello, I'm Vache Vardanyan! 
+💻 Hello, I'm Vache Vardanyan! 
 
 **Front-end Developer & Network Engineer**
 
-## 🚀 About Me
+🚀 About Me
 I'm passionate about both web development and networking technologies. I build full-stack web applications and design robust network infrastructures.
 
-## 🌐 Skills
+🦾 Skills
 **Web Development:** JavaScript, React, Node.js, MongoDB  
 **Networking:** VLANs, Routing, Switching, Security, Cisco Technologies
 
-## 📂 Featured Projects
+📂 Featured Projects
 
-### 🔗 Networking
+🔗 Networking
 [**Multi-VLAN Office Network**](https://github.com/MrVardanyan777/networking-portfolio/tree/main/labs/multi-vlan-office-network) - Complete network design with security
 
 [**Small Office Network**](https://github.com/MrVardanyan777/networking-portfolio/tree/main/labs/enterprise-office-network) - Complete network design with security
 
-### 🌐 **Web Development Projects**
+🌐 **Web Development Projects**
 - [**Prduct Landing Page**](https://github.com/MrVardanyan777/product-single-page) - React portfolio showcase
-- [**Teleflix**](https://github.com/MrVardanyan777/teleflix) - Web application
-- [**Mindvault**](https://github.com/MrVardanyan777/mindvault) - Note-taking Nest.js app
-- [**Mojito Coctails**](https://github.com/MrVardanyan777/mojito-cocktails) - E-commerce Next.js app
+- [**Teleflix**](https://github.com/MrVardanyan777/teleflix) - Select a movie for tonight 
+- [**Mindvault**](https://github.com/MrVardanyan777/mindvault) - Note-taking Next.js app
+- [**Mojito Coctails**](https://github.com/MrVardanyan777/mojito-cocktails) - Coctails Bar Landing Page
 
 
-## 📫 Let's Connect
+📫 Let's Connect
 - **Location:** Yerevan, Armenia
 - **Linkedin:** [Vache Vardanyan](https://www.linkedin.com/in/vache-vardanyan/)
 - **Gmail:** vache.vardanyan.vach@gmail.com
