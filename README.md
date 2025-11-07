@@ -36,6 +36,8 @@ Packet Tracer | OSPF | VLANs | VPN | ACLs | Network Design
 ## 📫 Let's Connect
 - **GitHub:** [MrVardanyan777](https://github.com/MrVardanyan777)
 - **Location:** Yerevan, Armenia
+- **Linkedin:** [Vache Vardanyan](https://www.linkedin.com/in/vache-vardanyan/)
+- **Gmail:** vache.vardanyan.vach@gmail.com
 
 ---
 
