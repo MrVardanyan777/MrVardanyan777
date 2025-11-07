@@ -24,11 +24,9 @@ I'm passionate about both web development and networking technologies. I build f
 
 
 ## 📫 Let's Connect
-- **GitHub:** [MrVardanyan777](https://github.com/MrVardanyan777)
 - **Location:** Yerevan, Armenia
 - **Linkedin:** [Vache Vardanyan](https://www.linkedin.com/in/vache-vardanyan/)
 - **Gmail:** vache.vardanyan.vach@gmail.com
 
 ---
 
-⭐ *From [MrVardanyan777](https://github.com/MrVardanyan777)*
