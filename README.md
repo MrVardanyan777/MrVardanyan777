@@ -5,23 +5,14 @@
 ## 🚀 About Me
 I'm passionate about both web development and networking technologies. I build full-stack web applications and design robust network infrastructures.
 
-## 🌐 My Skills
-JavaScript | React | Next.js | Tailwind css | MongoDB | TypeScript
-HTML/CSS | GSAP Animations | REST APIs | Git | 
+## 🌐 Skills
+**Web Development:** JavaScript, React, Node.js, MongoDB  
+**Networking:** VLANs, Routing, Switching, Security, Cisco Technologies
 
-### **Web Development**
-Cisco Technologies | Routing & Switching | Network Security
-Packet Tracer | OSPF | VLANs | VPN | ACLs | Network Design
+## 📂 Featured Projects
 
-
-## 📂 Portfolio Highlights
-
-### 🔗 **Networking Projects**
-[**Networking Portfolio**](https://github.com/MrVardanyan777/networking-portfolio) - Packet Tracer labs showcasing:
-- Enterprise network design
-- VPN configurations  
-- Network security implementations
-- Routing and switching scenarios
+### 🔗 Networking
+[**Multi-VLAN Office Network**](https://github.com/MrVardanyan777/networking-portfolio/tree/main/labs/multi-vlan-office-network) - Complete network design with security
 
 ### 🌐 **Web Development Projects**
 - [**product-single-page**](https://github.com/MrVardanyan777/product-single-page) - React portfolio showcase
