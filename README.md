@@ -17,10 +17,10 @@ I'm passionate about both web development and networking technologies. I build f
 [**Small Office Network**](https://github.com/MrVardanyan777/networking-portfolio/tree/main/labs/enterprise-office-network) - Complete network design with security
 
 ### 🌐 **Web Development Projects**
-- [**product-single-page**](https://github.com/MrVardanyan777/product-single-page) - React portfolio showcase
-- [**teleflix**](https://github.com/MrVardanyan777/teleflix) - Web application
-- [**mindvault**](https://github.com/MrVardanyan777/mindvault) - Note-taking Nest.js app
-- [**firetouch**](https://github.com/MrVardanyan777/firetouch) - E-commerce Next.js app
+- [**Prduct Landing Page**](https://github.com/MrVardanyan777/product-single-page) - React portfolio showcase
+- [**Teleflix**](https://github.com/MrVardanyan777/teleflix) - Web application
+- [**Mindvault**](https://github.com/MrVardanyan777/mindvault) - Note-taking Nest.js app
+- [**Mojito Coctails**](https://github.com/MrVardanyan777/mojito-cocktails) - E-commerce Next.js app
 
 
 ## 📫 Let's Connect
