@@ -22,9 +22,6 @@ I'm passionate about both web development and networking technologies. I build f
 - [**mindvault**](https://github.com/MrVardanyan777/mindvault) - Note-taking Nest.js app
 - [**firetouch**](https://github.com/MrVardanyan777/firetouch) - E-commerce Next.js app
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrVardanyan777&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 - **GitHub:** [MrVardanyan777](https://github.com/MrVardanyan777)
