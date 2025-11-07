@@ -13,6 +13,7 @@ I'm passionate about both web development and networking technologies. I build f
 
 ### 🔗 Networking
 [**Multi-VLAN Office Network**](https://github.com/MrVardanyan777/networking-portfolio/tree/main/labs/multi-vlan-office-network) - Complete network design with security
+[**Small Office Network**](https://github.com/MrVardanyan777/networking-portfolio/tree/main/labs/enterprise-office-network) - Complete network design with security
 
 ### 🌐 **Web Development Projects**
 - [**product-single-page**](https://github.com/MrVardanyan777/product-single-page) - React portfolio showcase
