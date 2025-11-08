@@ -16,6 +16,8 @@ I'm passionate about both web development and networking technologies. I build f
 
 [**Small Office Network**](https://github.com/MrVardanyan777/networking-portfolio/tree/main/labs/enterprise-office-network) - Complete network design with security
 
+[**Enterprise HQ Branch Network**](https://github.com/MrVardanyan777/networking-portfolio/tree/main/labs/enterprise-hq-branch-network) - Complete enterprise network design with security
+
 ### 🌐 **Web Development Projects**
 - [**Prduct Landing Page**](https://github.com/MrVardanyan777/product-single-page) - React portfolio showcase
 - [**Teleflix**](https://github.com/MrVardanyan777/teleflix) - Select a movie for tonight 
